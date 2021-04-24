@@ -3,24 +3,25 @@
 
 Experienced Software Quality Engineer. Knowledgeable in Web Development and Networks. Getting started with Cloud(8 months), specifically AWS Services.
 
-
-```markdown
 ### KEY SKILLS
-
+```markdown
 - AWS
 - Software Development
 - Web Development
 - Basic Networks
 - Troubleshooting
 - Unit Testing
-
-### CERTIFICATIONS
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### CERTIFICATIONS
+```markdown
+- Certified Multi Cloud Associate ‘20
+- CSE - Professional ‘17
+- AWS Certified Developer Associate(Training) ‘21
+- AWS Solutions Architect Associate (Training) ‘21
+- Web Development(Training)‘17
+```
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/breadough/breadough.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
