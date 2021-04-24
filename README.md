@@ -46,6 +46,8 @@ Problem Solver
 - AWS Certifications(Targeting 12 certifications, starting with Developer Associate)
 - AZURE Services
 - GCP
+```
+
 
 ### SOCIAL MEDIA
 [Facebook](https://facebook.com/)
