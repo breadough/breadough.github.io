@@ -1,27 +1,20 @@
-## Welcome to GitHub Pages
+## BREAD LLOVIDO
+### Software Engineer
 
-You can use the [editor on GitHub](https://github.com/breadough/breadough.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Experienced Software Quality Engineer. Knowledgeable in Web Development and Networks. Getting started with Cloud(8 months), specifically AWS Services.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+### KEY SKILLS
 
-# Header 1
-## Header 2
-### Header 3
+- AWS
+- Software Development
+- Web Development
+- Basic Networks
+- Troubleshooting
+- Unit Testing
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+### CERTIFICATIONS
 
 [Link](url) and ![Image](src)
 ```
