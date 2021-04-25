@@ -49,8 +49,11 @@ Problem Solver
 ```
 
 
-### PERSONAL WEBSITE
+### OTHERS
+```markdown
 [Business](http://roundtableshop.com/)
-
+[Facebook](https://web.facebook.com/bread.llovido/)
+[Gmail](brdllovido@gmail.com)
+```
 
 
