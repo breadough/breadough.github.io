@@ -1,7 +1,7 @@
 ## BREAD LLOVIDO
-### Software Engineer
+### DevOps Engineer
 
-Experienced Software Quality Engineer. Knowledgeable in Web Development and Networks. Getting started with Cloud(8 months), specifically AWS Services.
+Experienced Software Quality Engineer. Knowledgeable in Web Development and Networks. Getting started with Cloud, specifically AWS Services.
 
 
 ### KEY SKILLS
@@ -49,5 +49,8 @@ Problem Solver
 ```
 
 
-### SOCIAL MEDIA
-[Facebook](https://facebook.com/)
+### PERSONAL WEBSITE
+[Business](http://roundtableshop.com/)
+
+
+
