@@ -47,9 +47,11 @@ Problem Solver
 
 ### GOALS
 ```markdown
-- AWS Certifications(Targeting 12 certifications, starting with Developer Associate)
-- AZURE Services
-- GCP
+- AWS Certifications(Targeting 12 certifications, starting with Developer Associate this year)
+- Frameworks(Laravel, Symfony, etc...)
+- Containers and microservices
+- Orchestration Tools(Pipelines, CI/CD, Testing automation)
+- AZURE/GCP Services
 ```
 
 ### OTHERS
