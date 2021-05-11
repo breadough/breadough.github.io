@@ -56,8 +56,8 @@ Problem Solver
 
 ### OTHERS
 ```markdown
-[Sample Output](http://roundtableshop.com/about.html)
-
+[Sample Website that runs on AWS](http://roundtableshop.com/about.html)
+Please visit this site for more information.
 ```
 
 ### CONTACTS
