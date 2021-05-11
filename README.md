@@ -1,5 +1,5 @@
 ## BREAD LLOVIDO
-### DevOps Engineer
+### Software Engineer
 
 Experienced Software Quality Engineer. Knowledgeable in Web Development and Networks. Getting started with Cloud, specifically AWS Services.
 
@@ -17,7 +17,11 @@ Experienced Software Quality Engineer. Knowledgeable in Web Development and Netw
 
 ### TECHNICAL SKILLS
 ```markdown
+- HTML
+- CSS
+- Javascript
 - Python
+- Node.js
 - C and C++
 - VCS: Git/SVN
 ```
@@ -25,7 +29,7 @@ Experienced Software Quality Engineer. Knowledgeable in Web Development and Netw
 
 ### SOFT SKILLS
 ```markdown
-Multi Lingual: English, Tagalog, Bisaya, Ilocano, Itawes and Nihongo
+Multi Lingual: English, Tagalog, Bisaya, Ilocano, Itawes and a bit of Nihongo
 Team Player
 Fast Learner
 Problem Solver
@@ -48,11 +52,17 @@ Problem Solver
 - GCP
 ```
 
+### OTHERS
+```markdown
+[Sample Output](http://roundtableshop.com/about.html)
+
+```
 
 ### OTHERS
 ```markdown
-[Business](http://roundtableshop.com/)
 [Gmail](brdllovido@gmail.com)
+[Business](http://roundtableshop.com/)
+
 ```
 
 
