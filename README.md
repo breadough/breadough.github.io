@@ -58,7 +58,7 @@ Problem Solver
 
 ```
 
-### OTHERS
+### CONTACTS
 ```markdown
 [Gmail](brdllovido@gmail.com)
 [Business](http://roundtableshop.com/)
