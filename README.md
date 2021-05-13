@@ -54,10 +54,11 @@ Problem Solver
 - AZURE/GCP Services
 ```
 
+### CONTACTS
+```markdown
+Gmail - brdllovido@gmail.com
+```
+
 ### OTHERS
 - [Sample Website that runs on AWS](http://roundtableshop.com/about.html).
-
-
-### CONTACTS
-- [Gmail](brdllovido@gmail.com).
 - [Business](http://roundtableshop.com/).
