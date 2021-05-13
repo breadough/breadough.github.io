@@ -55,17 +55,9 @@ Problem Solver
 ```
 
 ### OTHERS
-```markdown
 - [Sample Website that runs on AWS](http://roundtableshop.com/about.html).
-Please visit this site for more information.
-```
+
 
 ### CONTACTS
-```markdown
 - [Gmail](brdllovido@gmail.com).
 - [Business](http://roundtableshop.com/).
-
-```
-- [Business](http://roundtableshop.com/).
-[Business](http://roundtableshop.com/).
-
